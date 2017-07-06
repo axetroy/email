@@ -1,16 +1,15 @@
-# 提供email服务的NodeJs实现
+# Provide Email Service implement by NodeJs
 
 [![Build Status](https://travis-ci.org/axetroy/email-service.svg?branch=master)](https://travis-ci.org/axetroy/email-service)
 [![Dependency](https://david-dm.org/axetroy/email-service.svg)](https://david-dm.org/axetroy/email-service)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
-[![npm version](https://badge.fury.io/js/email-service.svg)](https://badge.fury.io/js/email-service)
 [![heroku](https://img.shields.io/badge/deploy-heroku-green.svg)](https://dashboard.heroku.com/apps/email-bot)
 
-服务器托管于[heroku](https://www.heroku.com/)
+Deploy at [heroku](https://www.heroku.com/)
 
-服务地址：https://email-bot.herokuapp.com
+Server：https://email-bot.herokuapp.com
 
 ### Usage
 
