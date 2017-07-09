@@ -1,5 +1,5 @@
 # Provide Email Service implement by NodeJs
-
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/email-service.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/axetroy/email-service.svg?branch=master)](https://travis-ci.org/axetroy/email-service)
 [![Dependency](https://david-dm.org/axetroy/email-service.svg)](https://david-dm.org/axetroy/email-service)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
