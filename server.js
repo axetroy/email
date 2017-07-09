@@ -8,6 +8,8 @@ const email = require('./lib/email');
 
 const app = express();
 
+const PORT = process.env.PORT || 3000;
+
 // parse application/x-www-form-urlencoded
 app.use(bodyParser.urlencoded({ extended: false }));
 
@@ -38,7 +40,6 @@ app.post('/', function(req, res) {
     });
 });
 
-
-app.listen('3000', function() {
-  console.log('Listening on 3000');
+app.listen(PORT, function() {
+  console.log('Listening on %d', PORT);
 });
