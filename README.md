@@ -6,6 +6,7 @@
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-green.svg)](https://github.com/prettier/prettier)
 ![Node](https://img.shields.io/badge/node-%3E=6.0-blue.svg?style=flat-square)
 [![heroku](https://img.shields.io/badge/deploy-heroku-green.svg)](https://dashboard.heroku.com/apps/email-bot)
+[![Size](https://github-size-badge.herokuapp.com/axetroy/email-service.svg)](https://dashboard.heroku.com/apps/email-bot)
 
 Deploy at [heroku](https://www.heroku.com/)
 
